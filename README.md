@@ -1,4 +1,4 @@
-# Lock-Free Queue Implementation for High-Frequency Trading
+# Implement a Lock-Free Queue
 
 ## Problem Statement
 
